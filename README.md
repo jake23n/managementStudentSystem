@@ -1,6 +1,6 @@
 Trang 1:
 	Select option student or teacher or report tận cùng dưới sig up 
-Trang 2.1: sig in
+ Trang 2.1: sig in
 	Sig in (tài khoản và mật khẩu)
 	Quên mật khẩu-> gửi về mail edu
 	Đổi mật khẩu: 
