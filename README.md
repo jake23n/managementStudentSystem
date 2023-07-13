@@ -4,13 +4,13 @@ Trang 2.1: sig in
 	Sig in (tài khoản và mật khẩu)
 	Quên mật khẩu-> gửi về mail edu
 	Đổi mật khẩu: 
-    - ít nhất: 
-        + 1 kí tự hoa
-			  + 1 kí tự số
-			  + 1 kí tự đặc biệt
-			  + 8 kí tự.
-		- nhiều nhất:
-        + 20 kí tự 
+	- ít nhất: 
+        	+ 1 kí tự hoa
+		+ 1 kí tự số
+		+ 1 kí tự đặc biệt
+		+ 8 kí tự.
+	- nhiều nhất:
+        	+ 20 kí tự 
 Trang 2.2 sig up
 	tk: mssv
 	mk mặc định: HCMUS@1234
