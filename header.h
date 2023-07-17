@@ -31,5 +31,10 @@ public:
     void printList();
     
     List *createList();
+
+    Node *merge(Node *first, Node *second);
+    Node *mergeSort(Node *head);
+    Node *split(Node *head);
+    
     ~List();
 }
